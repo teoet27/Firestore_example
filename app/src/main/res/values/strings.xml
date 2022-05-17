@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firestore_example</string>
+    <string name="welcome">welcome</string>
+    <string name="logInToContinue">log in</string>
+</resources>
